@@ -365,11 +365,11 @@ dashscope.api_key = &#34;sk-xxxxxxxxxxxxxxxxxxxxxxxx&#34;</code></pre>
             在您开始贡献之前，请花些时间阅读我们的 <strong>[CONTRIBUTING.md](CONTRIBUTING.md)</strong> 文件，其中包含了更详细的贡献指南和代码风格规范。
         </p>
 <p>
-            感谢每一位贡献者！
+            完毕！
         </p>
 <h2 id="section--许可证-license">📄 许可证 (License)</h2>
 <p>
-            本项目采用 MIT 许可证进行分发。这意味着您可以自由地使用、复制、修改、合并、出版、分发、再授权和/或销售本软件的副本。
+            本项目采用 CC-BY-NC 许可证进行分发。这意味着您可以对作品进行复制、分发、展示、表演和演绎创作，但必须为我署名，并且只能将作品用于非商业目的。
         </p>
 <p>
             详情请参阅 <strong>[LICENSE](LICENSE)</strong> 文件。
